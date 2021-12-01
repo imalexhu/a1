@@ -1,0 +1,25 @@
+This is Alex Hu's submission for assignment 1 DS
+
+To complie all the files run 
+javac *.java
+
+To start the server run 
+java SorterFactoryImpli
+
+To test the code sequentially run 
+chmod +x methodTest.sh
+./methodTest.sh
+
+To test the code concurrently run 
+chmod +x multiTest.sh
+./multiTest.sh
+
+
+Note for both tests, outputs are stored in the testing files, and the test's results overide eachothers. 
+
+
+To clear the .class files 
+rm *.class
+
+to clear all test outputs
+rm testing/*Test.txt

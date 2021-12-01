@@ -1,0 +1,15 @@
+Empty :true
+Pushed :10
+Popped :10 after 2500 seconds
+Empty :true
+Pushed :3
+Pushed :2
+Pushed :1
+Opperation :max
+Pushed :3
+Pushed :2
+Pushed :1
+Opperation :descending
+Popped :3
+Popped :3
+Popped :2

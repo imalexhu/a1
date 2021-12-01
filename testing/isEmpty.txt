@@ -1,0 +1,4 @@
+Pushed :10
+Empty :false
+Popped :10
+Empty :true

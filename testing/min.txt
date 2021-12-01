@@ -1,0 +1,4 @@
+Pushed :1
+Pushed :2
+Pushed :3
+Opperation :min
